@@ -1,22 +1,9 @@
-* code
 * fcitx
-* google-chrome
-* idea
-* mariadb
-* netease-cloud-music
 * picom-ibhagwan-git
-* qt5
-* v2ray
-* v2raya
-* yay
-* 
-# Fonts
-* wqy-microhei
-* SourceCodePro
+* intellij-idea-community-edition
 
-# WPS
-* wps-office-mime-cn
-* wps-office-mui-zh-cn
+# Fonts
+* SourceCodePro
 
 # zsh & zsh plugins
 * powerlevel10k.zsh-theme
